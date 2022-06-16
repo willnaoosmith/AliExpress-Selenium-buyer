@@ -2,8 +2,8 @@ from selenium.webdriver.firefox.options import Options
 from selenium import webdriver
 from time import sleep
 
-code = "POCOX99"
-cpf = "48119465881"
+code = ""
+cpf = ""
 
 try:
 	options = Options()
